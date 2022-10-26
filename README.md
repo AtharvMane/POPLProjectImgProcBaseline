@@ -42,9 +42,10 @@ That’s it. If you did not encounter any error then OpenCV is installed success
 git clone https://github.com/AtharvMane/POPLProjectImgProcBaseline.git
 ```
 
-2. move to the repository and make
+2. move to the repository make a directory named bin and make
 ```bash
 cd POPLProjectImgProcBaseline
+mkdir bin
 make
 ```
 
@@ -111,4 +112,23 @@ This command creates a DFT of the image.
 
 ![Original Image](download.jpeg)
 ![filtered](./results/fourier/fourier.jpg)
+
+5. Drawing
+```bash
+./drawing_cv
+```
+This command creates images with predefined drawings.
+
+
+6. OpenCV Basic Mat
+```bash
+./understanding_mat
+```
+Shows the Pointer nature of the cv::Mat container as described in the source doc.
+
+7. Iterating
+```bash
+./iterating_over_image
+```
+Thresholds different methods of iteration over an OpenCV image.
 
