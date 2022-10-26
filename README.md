@@ -133,3 +133,10 @@ Shows the Pointer nature of the cv::Mat container as described in the source doc
 ```
 Thresholds different methods of iteration over an OpenCV image.
 
+### Contributors
+Mane Atharv Mahesh 2020A7PS0153G<br>
+Ojas Kanth 2020A7PS1391G<br>
+Rishi Roy 2020A7PS0135G<br>
+Aditya Khillan 2020A7PS0154G<br>
+Jahanvi Makkar 2020A7PS1372G<br>
+Milind Kumar Prasad 2020A7PS0130G<br>
