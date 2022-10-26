@@ -60,6 +60,7 @@ The image is already present in the repository.
 
 To run the program.
 ```bash
+cd bin
 ./[binary]
 ```
 For a custom image download the image into the root of the repository, rename it to ```download.jpeg``` and run the command.  
