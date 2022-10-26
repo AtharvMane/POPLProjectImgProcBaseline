@@ -54,7 +54,7 @@ Once you have successfully executed all the steps, now you can run the applicati
 
 ## Usage - Test Cases
 
-For testing the functionality of the filters we will be using a random internet image
+For testing the functionality of the programs we will be using a random internet image
 
 The image is already present in the repository.
 
